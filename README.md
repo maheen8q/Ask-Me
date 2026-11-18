@@ -8,7 +8,7 @@ Plain HTML, CSS and JavaScript. No build step, no dependencies, no backend.
 
 - **Quickest:** open `index.html` in a browser.
 - **Local server (optional):** `python3 -m http.server 8000`, then visit http://localhost:8000
-- **Deploy:** upload the whole folder to any static host. Navigation uses `#/` links, so no server rewrites are needed.
+- **Deploy:** https://ask-me-roan.vercel.app/
 
 ## Update the content
 
